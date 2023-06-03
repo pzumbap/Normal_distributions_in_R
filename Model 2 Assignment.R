@@ -1,5 +1,4 @@
 #Pablo Zumba
-#U54252888
 rm(list=ls())
 library(rio)
 marksBrothers = as.data.frame(import("6304 Module 2 Assignment Data.xlsx"))
